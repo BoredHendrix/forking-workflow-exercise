@@ -1,4 +1,4 @@
-
+[![DOI](https://sandbox.zenodo.org/badge/217038927.svg)](https://sandbox.zenodo.org/badge/latestdoi/217038927)
 
 ## Exercise: practice collaborative forking workflow
 
